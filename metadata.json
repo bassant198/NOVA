@@ -1,0 +1,8 @@
+{
+  "name": "NOVA E-Commerce",
+  "description": "A modern, premium e-commerce frontend experience featuring curated minimalist gear, responsive catalog browsing, persistent shopping cart, and smooth checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
